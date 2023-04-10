@@ -4,4 +4,4 @@ tasks:
 
 vscode:
   extensions:
-    - rust-lang.rust-analyzer@0.3.1348
+    - rust-lang.rust@0.7.8
